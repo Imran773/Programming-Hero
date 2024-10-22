@@ -1,0 +1,42 @@
+
+.header{
+    height: 300px;
+    /* background-color: bisque;
+    background-image: url('grandma.png');
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+    background-size: cover;
+    background-size: contain  ; */
+  /* background-image: url('../apple.jpg'); */
+  background-image: url('../images/apple/dev.png');
+}
+
+.Blog{
+    background-color: darkkhaki;
+    border-top: 15px solid tomato;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    width: 50%;
+    text-align: justify;
+    box-shadow: 10px 10px 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.spn{
+    border: 2px solid green;
+    margin: 20px;
+    height: 200px;
+    display: inline-block;
+}
+
+.Blog h2{
+    font-size: 30px;
+    text-decoration: overline;
+}
+
+.second{
+    /* display: none:
+    visibility: hidden; */
+}
+
